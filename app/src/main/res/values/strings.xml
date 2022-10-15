@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">composeapp</string>
+    <string name="card_1">APP DEVELOPMENT</string>
+    <string name="card_2">WEB DEVELOPMENT</string>
+    <string name="card_3">CLOUD COMPUTING</string>
+    <string name="card_4">MACHINE LEARNING</string>
+    <string name="screen_title">ROADMAPS</string>
+    <string name="link_1">https://roadmap.sh/android</string>
+    <string name="link_2">https://www.geeksforgeeks.org/roadmap-to-become-a-web-developer-in-2022/</string>
+    <string name="link_3">https://www.educative.io/blog/roadmap-to-cloud-engineer-jobs</string>
+    <string name="link_4">https://i.am.ai/roadmap/#note</string>
+
+</resources>
